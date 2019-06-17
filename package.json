@@ -1,0 +1,19 @@
+{
+  "name": "pong",
+  "version": "1.0.0",
+  "description": "First Javascript Game",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PlanetNamekTech/pong.git"
+  },
+  "author": "Spencer Richardson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PlanetNamekTech/pong/issues"
+  },
+  "homepage": "https://github.com/PlanetNamekTech/pong#readme"
+}
